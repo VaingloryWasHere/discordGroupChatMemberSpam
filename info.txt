@@ -1,0 +1,4 @@
+Token:token here
+ChatroomID:group chat id
+Message:testing auto message
+Repeat: how many times u want the message to be sent; 1 means message goes only once.
